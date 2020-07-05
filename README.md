@@ -30,6 +30,10 @@ All of the images are real images on Shopee platform - the leading e-commerce on
 
 The feature of each image is extracted by using pre-trained model ResNet50, with weights are imagenet.
 
+# CNN Model
+
+After feature extracted by ResNet50, the model will go through a 1500 nodes hidden layer before go to the output layer. The nodes number can modify to achieve better accuracy.
+
 # Steps to run
 
 1. Run c2_train_feature_extraction.py
@@ -42,4 +46,8 @@ The feature of each image is extracted by using pre-trained model ResNet50, with
 
 # Accuracy
 
+The trainning accuracy is reached at 0.9437 after 5 epochs.
+![Training Accuracy](https://github.com/neumotngayem/Image-classification-using-CNN/blob/master/Trainning.PNG?raw=true)
 
+The testing accuracy is reached at 0.81
+![Testing Accuracy](https://github.com/neumotngayem/Image-classification-using-CNN/blob/master/Testing.PNG?raw=true)
