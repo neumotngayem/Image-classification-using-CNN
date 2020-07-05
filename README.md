@@ -1,6 +1,6 @@
 # Image classification using CNN
 
-This is a part of the dataset in Competition 2 - Shopee Code League. The trainning include 10 image categories, around 1500 trainning images in each category. The 10 categories name as follows:
+This is a part of the dataset in Competition 2 - Shopee Code League. The trainning include 10 image categories, around 1500 trainning images in each category clean from the original dataset. The 10 category names as follows:
 
 00: Maxi dress
 
@@ -25,6 +25,10 @@ This is a part of the dataset in Competition 2 - Shopee Code League. The trainni
 10: Phone case
 
 All of the images are real images on Shopee platform - the leading e-commerce online shopping platform in Southeast Asia and Taiwan.
+
+# Image dataset
+
+https://drive.google.com/file/d/10xAzLNwr1ye1KeCyAskmrzvVELOlwQ6U/view?usp=sharing
 
 # Feature extraction
 
