@@ -50,4 +50,5 @@ The trainning accuracy is reached at 0.9437 after 5 epochs.
 ![Training Accuracy](https://github.com/neumotngayem/Image-classification-using-CNN/blob/master/Trainning.png?raw=true)
 
 The testing accuracy is reached at 0.81
+
 ![Testing Accuracy](https://github.com/neumotngayem/Image-classification-using-CNN/blob/master/Testing.png?raw=true)
